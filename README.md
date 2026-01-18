@@ -52,7 +52,7 @@ To analyze coffee sales performance across time, customers, products, and geogra
 
 <img src="Coffeedash.png" width="900">
 
-### You can access the interactive Excel file [HERE](Coffee Project.xlsx)
+### You can access the interactive Excel file [HERE](https://github.com/rahulkhandareDA/Excel-Based-Sales-Performance-Customer-Analysis-Using-Excel/blob/main/coffee%20Project.xlsx)
 
 ### Key Insights
 
