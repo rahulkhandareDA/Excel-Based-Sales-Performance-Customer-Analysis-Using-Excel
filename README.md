@@ -50,6 +50,10 @@ To analyze coffee sales performance across time, customers, products, and geogra
 
 - Comparison of loyal versus non-loyal customer revenue contribution
 
+<img src="Coffeedash.png" width="900">
+
+### You can access the interactive Excel file [HERE](Coffee Project.xlsx)
+
 ### Key Insights
 
 - December consistently generated the highest sales, showing strong Year-over-Year growth.
